@@ -1,0 +1,23 @@
+git init
+
+git add .
+git commit -m ""
+
+git config user.name ""
+git config user.email ""
+
+git remote add origin "url"
+
+git push -u origin master  
+
+git log
+
+git status
+
+git branch 
+
+git branch -c newBranch
+
+git merge 
+
+git checkout
